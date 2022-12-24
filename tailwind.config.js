@@ -11,7 +11,7 @@ module.exports = {
         Avenir: ["Avenir"],
       },
       colors: {
-        lightBeige: "#EDE4E0",
+        lightBeige: "#ede4e064",
         brown: "#9F8772",
         darkBrown: "#665A48",
         lightGreen: "#C8DBBE",
