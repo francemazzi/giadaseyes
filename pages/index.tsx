@@ -5,6 +5,7 @@ import SliderOne from "../components/organism/slideHome/SliderOne";
 import Who from "../components/organism/slideHome/Who";
 import Biography from "../components/organism/slideHome/Biography";
 import PoesieList from "../components/molecols/PoesieList";
+import Footer from "../components/molecols/Footer";
 
 export default function Home() {
   return (
@@ -14,6 +15,7 @@ export default function Home() {
       <Who />
       <Biography />
       <PoesieList />
+      <Footer />
     </div>
   );
 }

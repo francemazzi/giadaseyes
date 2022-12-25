@@ -33,7 +33,7 @@ export const SLIDE_CARD = [
   },
   {
     title: "Lingue",
-    text: "Tedesco 🇩🇪, Inglese 🇬🇧, Spangolo 🇪🇸",
+    text: "Tedesco 🇩🇪, Inglese 🇬🇧, Spagnolo 🇪🇸",
   },
 ];
 
